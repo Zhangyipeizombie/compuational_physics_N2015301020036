@@ -24,3 +24,5 @@ This is the repository of Zhang Yipei, serving as the assignments address for co
  [Exercise 03 动态名字](https://www.zybuluo.com/Zhangyipeizombie/note/903140)
  
  [Exercise-04 Euler法数值解](https://www.zybuluo.com/Zhangyipeizombie/note/886606)
+
+ [Exercise-05 Realistic Projectile Motion](https://www.zybuluo.com/Zhangyipeizombie/note/914281) 
