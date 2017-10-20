@@ -26,3 +26,5 @@ This is the repository of Zhang Yipei, serving as the assignments address for co
  [Exercise-04 Euler法数值解](https://www.zybuluo.com/Zhangyipeizombie/note/886606)
 
  [Exercise-05 Realistic Projectile Motion](https://www.zybuluo.com/Zhangyipeizombie/note/914281) 
+
+[Exercise-06 The trajectories of batted knuckleballs[https://www.zybuluo.com/Zhangyipeizombie/note/922539]
