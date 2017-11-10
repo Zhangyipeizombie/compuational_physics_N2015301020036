@@ -32,3 +32,5 @@ This is the repository of Zhang Yipei, serving as the assignments address for co
 [Exercise-07 the Driven Nonliner Pendulum](https://www.zybuluo.com/Zhangyipeizombie/note/930856)
 
 [Exercise-08 the routes to chaos](https://www.zybuluo.com/Zhangyipeizombie/note/939298)
+
+[Exercise-09 the Billiard Problem](https://www.zybuluo.com/Zhangyipeizombie/note/946755)
