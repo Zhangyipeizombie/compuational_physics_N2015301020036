@@ -1,38 +1,9 @@
+Dont Touch the Spikes
+===================        
 
 
-
-# compuational_physics_N2015301020036
-This is the repository of Zhang Yipei, serving as the assignments address for computational physics, 2017 Autumn semester.
-2017年秋季计算物理课程作业列表
+This is a very famous game written in **Python**, but originally <i class="icon-folder-open"></i> created in for **Android** mobile phones.
+-------------
 
 
-
-
-第一次作业
-
-
-
-•推荐安装linux系统（不安装亦可完成本课程学习）
-•安装python 2.7运行环境（非linux环境请安装狂蟒之灾）
-•注册github账户，建立自己针对计算物理课程的软件池（repository），命名方式compuational_physics_NXXXXXXX（XXXXXXX为个人的学号）所有的源代码和图片应上传到这里
-•在这个软件池中按照markdown语法书写自己的第一个README.md，内容主要为你接下来所有作业的链接.
-
- Homework list
- 
- [Exercise_02 拼写名字](https://www.zybuluo.com/Zhangyipeizombie/note/886574)
- 
- [Exercise 03 动态名字](https://www.zybuluo.com/Zhangyipeizombie/note/903140)
- 
- [Exercise-04 Euler法数值解](https://www.zybuluo.com/Zhangyipeizombie/note/886606)
-
- [Exercise-05 Realistic Projectile Motion](https://www.zybuluo.com/Zhangyipeizombie/note/914281) 
-
-[Exercise-06 The trajectories of batted knuckleballs](https://www.zybuluo.com/Zhangyipeizombie/note/922539)
-
-[Exercise-07 the Driven Nonliner Pendulum](https://www.zybuluo.com/Zhangyipeizombie/note/930856)
-
-[Exercise-08 the routes to chaos](https://www.zybuluo.com/Zhangyipeizombie/note/939298)
-
-[Exercise-09 the Billiard Problem](https://www.zybuluo.com/Zhangyipeizombie/note/946755)
-
-[Exercise-10 the three body problem](https://www.zybuluo.com/Zhangyipeizombie/note/971545)
+>Play with <kbd> space </kbd> to jump and try not to hit the spikes to get the most points!
