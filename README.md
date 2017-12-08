@@ -20,8 +20,10 @@ Homework list
 
 [Exercise 07 Driven Nonliner Pendulum ](https://www.zybuluo.com/Zhangyipeizombie/note/930856)
 
-[Exercise 08 The Billiard Problem](https://www.zybuluo.com/Zhangyipeizombie/note/946755)
+[Exercise 08 Routes to Chaos](https://www.zybuluo.com/Zhangyipeizombie/note/939298)
 
-[Exercise 09 Three body problem.](https://www.zybuluo.com/Zhangyipeizombie/note/971545)
+[Exercise 09 The Billiard Problem](https://www.zybuluo.com/Zhangyipeizombie/note/946755)
 
-[Exercise 10 Electric Potential and Fields](https://www.zybuluo.com/Zhangyipeizombie/note/975376)
+[Exercise 10 Three body problem.](https://www.zybuluo.com/Zhangyipeizombie/note/971545)
+
+[Exercise 11 Electric Potential and Fields](https://www.zybuluo.com/Zhangyipeizombie/note/975376)
