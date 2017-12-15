@@ -27,3 +27,5 @@ Homework list
 [Exercise 10 Three body problem.](https://www.zybuluo.com/Zhangyipeizombie/note/971545)
 
 [Exercise 11 Electric Potential and Fields](https://www.zybuluo.com/Zhangyipeizombie/note/975376)
+
+[Exercise 12 waves](https://www.zybuluo.com/Zhangyipeizombie/note/988062)
