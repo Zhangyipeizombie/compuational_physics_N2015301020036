@@ -9,7 +9,7 @@ This is the repository of Zhang Yipei, serving as the assignments address for co
 期中作业：
 
 《费曼不要当死宅》， 通过敲击空格键来跳跃以躲过四周的小埋，坚持越久分数越高。
-直接打包下载全部附件，运行文件main.py即可运行程序。
+直接打包下载文件池中全部文件，运行文件main.py即可运行程序。
 
 Homework list
 
