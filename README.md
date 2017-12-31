@@ -7,6 +7,7 @@ This is the repository of Zhang Yipei, serving as the assignments address for co
 •推荐安装linux系统（不安装亦可完成本课程学习） •安装python 2.7运行环境（非linux环境请安装狂蟒之灾） •注册github账户，建立自己针对计算物理课程的软件池（repository），命名方式compuational_physics_NXXXXXXX（XXXXXXX为个人的学号）所有的源代码和图片应上传到这里 •在这个软件池中按照markdown语法书写自己的第一个README.md，内容主要为你接下来所有作业的链接.
 
 期中作业：
+
 《费曼不要当死宅》， 通过敲击空格键来跳跃以躲过四周的小埋，坚持越久分数越高。
 直接打包下载全部附件，运行文件main.py即可运行程序。
 
