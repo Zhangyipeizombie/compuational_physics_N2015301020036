@@ -35,4 +35,6 @@ Homework list
 
 [Exercise 12 waves](https://www.zybuluo.com/Zhangyipeizombie/note/988062)
 
+[D](https://www.zybuluo.com/Zhangyipeizombie/note/1044640)
+
 [Final Ising model](https://www.zybuluo.com/Zhangyipeizombie/note/1004086)
